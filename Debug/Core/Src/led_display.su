@@ -1,0 +1,5 @@
+led_display.c:5:6:update7SEG	16	static
+led_display.c:62:6:display_light_mode1	8	static
+led_display.c:95:6:display_light_blink	8	static
+led_display.c:117:6:update_led_buffer	4	static
+led_display.c:168:6:display_7seg	16	static
